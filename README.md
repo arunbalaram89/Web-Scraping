@@ -1,7 +1,10 @@
 # Web-Scraping
 Module 11 - Mars Web Scraping Assignment
 
+# Introduction
 
+Web Scraping looks at a given website, and scraps the data by inspecting the website to determine what information is on the website using HTML tools.
+HTML is like a skeleton, that gives the body of a webpage. This tool can see how a website is designed, and how it is organized. 
 
 # Description
 
@@ -22,7 +25,10 @@ min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
 pressure: The atmospheric pressure at Curiosity's location
 
 
+# Installation
 
+Python Jupyter Notebook 
+Chromedriver - used to web scrape pages
 
 
 # Credit
